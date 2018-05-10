@@ -6,3 +6,8 @@ to see the changes in your working directory vs staging area
 -You can use
 git diff --staged
 to see the changes in what you have staged vs what your ;ast commit has
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to make a radical change to your code without affecting the original verison
+when you have new but dangerous experiments to try
