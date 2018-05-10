@@ -1,0 +1,8 @@
+How can you use the staging area to make sure you have one commit per logical change?
+
+-You can use 
+git diff
+to see the changes in your working directory vs staging area
+-You can use
+git diff --staged
+to see the changes in what you have staged vs what your ;ast commit has
