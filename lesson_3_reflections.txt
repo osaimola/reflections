@@ -6,3 +6,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 collaborative work may mean changes to the remote repo that you dont necessarily want on your local repo
 an automatic pull process might end up messing up your work and leaving you clueless as why
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks create a copy of a third party's repo on your github and allows you to make & keep changes without affecting their code (also allows keeps track of forks made and allows you suggest changes) -- Good for making your own version of things
+Branches allow you make and keep changes without affecting the master branch -- Good for working on and keeping track of experimental features or betas
+Clones let you make a direct copy from github or a local repo to a different repo on your local machine -- Good for getting all needed to join in a collab project or just getting your work on to a new machine.
